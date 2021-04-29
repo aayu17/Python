@@ -1,5 +1,8 @@
+# pip install PyAutoGUI
 import pyautogui
+# pip install pycopy-webbrowser
 import webbrowser as wb
+# pip install times
 import time
 wb.open("https://web.whatsapp.com/")
 time.sleep(5)
