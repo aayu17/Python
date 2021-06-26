@@ -1,7 +1,7 @@
 import phonenumbers as pn #pip installl phonenumbers
 from phonenumbers import carrier, geocoder, timezone
 #phone number +91*********
-phone = pn.parse('+919717825681 ')
+phone = pn.parse('++91********** ')
 # check validity of number
 print(pn.is_valid_number(phone))
 # telecom operator name
